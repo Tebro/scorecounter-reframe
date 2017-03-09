@@ -1,0 +1,9 @@
+body {
+  color: black;
+}
+
+body span {
+  margin-right: 5px;
+  float: left;
+  display: block;
+}
